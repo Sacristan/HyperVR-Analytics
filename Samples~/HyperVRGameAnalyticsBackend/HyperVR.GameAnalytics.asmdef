@@ -1,0 +1,17 @@
+{
+    "name": "HyperVR.GameAnalytics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:402877609d9a6a24fb143128c82faf7a",
+        "GUID:f8c64bb88d959406689053ae3f31183d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

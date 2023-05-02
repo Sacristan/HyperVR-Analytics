@@ -1,0 +1,16 @@
+{
+    "name": "HyperVR.FirebaseAnalytics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:402877609d9a6a24fb143128c82faf7a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

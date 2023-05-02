@@ -11,5 +11,18 @@
         "name": "HyperVR",
         "email": "info@hypervr.games",
         "url": "https://hypervr.games"
-    }
+    },
+    "samples": 
+    [
+        {
+            "displayName": "Firebase Backend",
+            "description": "Firebase Analytics Backend implementation. Need to install Firebase SDK first https://firebase.google.com/docs/unity/setup",
+            "path": "Samples~/HyperVRFirebaseAnalyticsBackend"
+        },
+        {
+            "displayName": "GameAnalytics Backend",
+            "description": "GameAnalytics Backend implementation. Need to install GameAnalytics SDK first https://docs.gameanalytics.com/integrations/sdk/unity/",
+            "path": "Samples~/HyperVRGameAnalyticsBackend"
+        }
+    ]
 }

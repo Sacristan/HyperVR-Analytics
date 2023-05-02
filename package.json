@@ -1,0 +1,15 @@
+{
+    "name": "games.hypervr.analytics",
+    "version": "0.0.1",
+    "displayName": "HyperVR Analytics",
+    "description": "Abstract analytics implementation to support different analytics backends",
+    "unity": "2020.3",
+    "keywords": [
+        "analytics"
+    ],
+    "author": {
+        "name": "HyperVR",
+        "email": "info@hypervr.games",
+        "url": "https://hypervr.games"
+    }
+}

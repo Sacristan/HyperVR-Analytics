@@ -15,6 +15,11 @@
     "samples": 
     [
         {
+            "displayName": "AppAnalyticsCore",
+            "description": "App Analytics wrapper to initialize evetything + basic handlers",
+            "path": "Samples~/AppAnalyticsCore"
+        },
+        {
             "displayName": "Firebase Backend",
             "description": "Firebase Analytics Backend implementation. Need to install Firebase SDK first https://firebase.google.com/docs/unity/setup",
             "path": "Samples~/HyperVRFirebaseAnalyticsBackend"

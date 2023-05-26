@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using GameAnalyticsSDK;
-using HVR.Analytics;
 
 namespace HyperVR.Analytics
 {
